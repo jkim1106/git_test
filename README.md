@@ -1,0 +1,1 @@
+This is Jonathan Kim's first git project! Fingers crossed it works
